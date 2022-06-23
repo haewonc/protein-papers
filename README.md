@@ -1,13 +1,13 @@
 # Protein papers
 > Powered by keynote
 
-**Papers and summaries regarding protein design, representation, and engineering**
+### Papers and summaries regarding protein design, representation, and engineering
 ![thumbnail](images/thumbnail.jpeg)
 - Click block to see details
 - Colored blocks denote papers with summary provided
 - Gray blocks denote papers without summary
 - Arrows denote relationships; same author or share architectures
-### Topics covered
+## Topics covered
 - Protein representation
 - Protein property prediction
 - Protein folding and inverse folding
