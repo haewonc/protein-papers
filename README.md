@@ -1,5 +1,6 @@
 # Protein papers
 > Papers and summaries regarding protein design, representation, and engineering
+
 ![thumbnail](images/thumbnail.jpeg)
 - Click block to see details
 - Colored blocks denote papers with summary provided
